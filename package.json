@@ -1,0 +1,30 @@
+{
+  "name": "express-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liliboxer/express-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liliboxer/express-exercises/issues"
+  },
+  "homepage": "https://github.com/liliboxer/express-exercises#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "jest": "^24.8.0",
+    "nodemon": "^1.19.1",
+    "supertest": "^4.0.2"
+  }
+}
